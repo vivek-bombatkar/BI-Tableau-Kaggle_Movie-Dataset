@@ -32,7 +32,7 @@ Strategic dashboards track key performance indicators
 	Strategic dashboards are ideal for executives looking to monitor KPIs and metrics across the organization. 
 Analytical dashboards process data to identify trends
 	Analytical or tactical dashboards are often used by business analysts to establish and communicate business targets across the organization.
-	
+	 
 https://eazybi.com/blog/data_visualization_and_chart_types/
 	Tables
 	Column Charts
